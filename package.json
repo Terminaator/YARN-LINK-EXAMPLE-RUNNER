@@ -1,0 +1,13 @@
+{
+    "name": "example",
+    "version": "0.0.0",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+      "...":"link:../node_modules",
+      "...": "link:.."  
+    },
+    "scripts": {
+      "start": "react-scripts start"
+    }
+  }
